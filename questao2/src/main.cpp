@@ -8,10 +8,10 @@ int main(){
 
         Pessoa pessoa1("Chico");
         //pessoa1.setNome("Miguel Farias");
-        pessoa1.setTelefone("83996604433");
+        pessoa1.setTelefone("8398889999");
         pessoa1.setIdade(14);
 
-        Pessoa pessoa2("José", "999999", 66);
+        Pessoa pessoa2("José", "83999999", 66);
         /*pessoa2.setNome("Rakel Farias");
         pessoa2.setTelefone("839880942");
         pessoa2.setIdade(21);

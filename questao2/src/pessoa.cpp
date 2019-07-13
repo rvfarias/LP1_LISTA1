@@ -5,13 +5,13 @@
 using namespace std;
 
 Pessoa::Pessoa(std::string nome){
-        this->nome = nome;
+        setNome(nome);
 }
 
 Pessoa::Pessoa(std::string nome, std::string telefone, int idade){
-        this->nome = nome;
-        this->telefone = telefone;
-        this->idade = idade;
+        setNome(nome);
+        setTelefone(telefone);
+        setIdade(idade);
 }
 
 void Pessoa::setNome(std::string nome){
