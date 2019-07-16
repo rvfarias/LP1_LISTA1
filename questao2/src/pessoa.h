@@ -13,6 +13,7 @@ std::string telefone;
 int idade;
 
 public:
+Pessoa();
 Pessoa(std::string nome);                                                   //Construtor 1
 Pessoa(std::string nome, std::string telefone, int idade);                  //Construtor 2
 //virtual ~Pessoa();

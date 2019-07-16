@@ -1,0 +1,9 @@
+Lp1_lista1
+
+Questão 1:
+a)Classe é um modelo que é utilizado para criar objetos que por sua vez são abstrações que coisas reais.
+
+b)Um construtor como o próprio nome sugere constroe um objeto ou seja eles metódos que garantem uma boa inicialização de objetos.
+Os construtores são utlizados para iniciliazar como mecionado acima e podem ser do tipo padrão ou programaveis. 
+
+c)Ele permite restringir o acesso ao que tiver na classe fazendo com que minimize erros de programação, por exemplo a quebra de integridade de dados, oculta alguns detalhes de implementação deixando ao usuário conhecer só o que lhe interessa e facilita a atualização do código.       

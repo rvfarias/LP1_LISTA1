@@ -4,6 +4,12 @@
 
 using namespace std;
 
+Pessoa::Pessoa(){
+        setNome("João");
+        setTelefone("9999999");
+        setIdade(18);
+}
+
 Pessoa::Pessoa(std::string nome){
         setNome(nome);
 }
